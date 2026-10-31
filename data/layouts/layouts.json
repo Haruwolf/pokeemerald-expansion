@@ -9323,6 +9323,39 @@
       "border_filepath": "data/layouts/OneIsland_KindleRoad_EmberSpa_Frlg/border.bin",
       "blockdata_filepath": "data/layouts/OneIsland_KindleRoad_EmberSpa_Frlg/map.bin",
       "layout_version": "frlg"
+    },
+    {
+      "id": "LAYOUT_LITTLEROOT_TOWN_EAST",
+      "name": "LittlerootTownEast_Layout",
+      "width": 30,
+      "height": 30,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Rustboro",
+      "border_filepath": "data/layouts/LittlerootTownEast/border.bin",
+      "blockdata_filepath": "data/layouts/LittlerootTownEast/map.bin",
+      "layout_version": "emerald"
+    },
+    {
+      "id": "LAYOUT_LITTLEROOT_TOWN_NORTH",
+      "name": "LittlerootTownNorth_Layout",
+      "width": 36,
+      "height": 36,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Rustboro",
+      "border_filepath": "data/layouts/LittlerootTownNorth/border.bin",
+      "blockdata_filepath": "data/layouts/LittlerootTownNorth/map.bin",
+      "layout_version": "emerald"
+    },
+    {
+      "id": "LAYOUT_ROUTE99",
+      "name": "Route99_Layout",
+      "width": 40,
+      "height": 30,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Rustboro",
+      "border_filepath": "data/layouts/Route99/border.bin",
+      "blockdata_filepath": "data/layouts/Route99/map.bin",
+      "layout_version": "emerald"
     }
   ]
 }
